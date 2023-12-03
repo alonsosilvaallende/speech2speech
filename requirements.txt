@@ -1,0 +1,6 @@
+solara
+ipywebrtc
+openai
+langchain
+git+https://github.com/johnryan465/whispercpp.py
+gTTS
